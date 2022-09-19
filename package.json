@@ -1,0 +1,19 @@
+{
+  "name": "rstyled",
+  "version": "1.0.0",
+  "description": "A react site using styled component",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aditya-2529/rstyled.git"
+  },
+  "author": "Aditya Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya-2529/rstyled/issues"
+  },
+  "homepage": "https://github.com/aditya-2529/rstyled#readme"
+}
